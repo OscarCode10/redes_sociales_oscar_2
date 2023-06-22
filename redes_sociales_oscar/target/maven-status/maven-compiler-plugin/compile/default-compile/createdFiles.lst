@@ -1,0 +1,10 @@
+model\Publicacion\PublicacionDAO.class
+model\Publicacion\PublicacionVO.class
+model\Usuario\UsuarioVO.class
+model\Comentario\ComentarioDAO.class
+controller\Comentario.class
+controller\Publicacion.class
+model\Comentario\ComentarioVO.class
+controller\Usuario.class
+model\Usuario\UsuarioDAO.class
+model\Connecting.class
